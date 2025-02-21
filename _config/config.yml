@@ -1,0 +1,11 @@
+---
+Name: googlereviewoptinconfig
+---
+
+SilverCommerce\Postage\Model\PostageType:
+  extensions:
+    - DFT\SilverCommerce\GoogleReviewsOptIn\PostageTypeExtension
+
+SilverCommerce\OrdersAdmin\Model\Estimate:
+  extensions:
+    - DFT\SilverCommerce\GoogleReviewsOptIn\EstimateExtension
