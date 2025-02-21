@@ -20,7 +20,7 @@
     },
     "require": {
         "sminnee/tagmanager": "1.0@dev"
-    }
+    },
     "autoload": {
         "psr-4": {
             "DFT\\SilverCommerce\\GoogleReviewsOptIn\\": "src/"
