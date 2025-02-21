@@ -19,7 +19,7 @@
         "issues": "https://github.com/Dean-Forest-Tech/silvercommerce-google-reviews-optin/issues"
     },
     "require": {
-        "sminnee/tagmanager": "1.0@dev"
+        "sminnee/tagmanager": "1.x-dev"
     },
     "autoload": {
         "psr-4": {
