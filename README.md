@@ -2,7 +2,7 @@
 
 Adds a custom snippet to the TagManager module that generates a Google Review opt in survey on the order complete page of a SilverCommerce site
 
-If you find this module helpfull, please consider supporting our work:
+If you find this module helpful, please consider supporting our work:
 
 [![GitHub Sponsor](https://img.shields.io/github/sponsors/Dean-Forest-Tech?label=Sponsor&logo=GitHub)](https://github.com/sponsors/Dean-Forest-Tech)
 
