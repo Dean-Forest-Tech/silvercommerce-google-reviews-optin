@@ -14,7 +14,10 @@ Install via composer using:
 
 ## Setup
 
-Setup is the same as other `TagManager` modules, just add a new "Google Reviews Opt In" and then add your Google Analytics ID.
+Setup is as follows:
+
+1. You must add a delivery lead time to each postage rate you have. **If you do not do this, the tag will not load***.
+2. As with other `TagManager` modules, add a new "Google Reviews Opt In" and then add your Google Analytics ID.
 
 ## Usage
 
